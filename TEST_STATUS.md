@@ -6,6 +6,7 @@
 - Package file: `PantherThermalDetector_v2_1_5_CONFIRMED_RELIABILITY_INSTALL.zip`
 - It remains a field-test build, not a generally validated thermal detector.
 - The reviewed project history does not contain a confirmed flight-test report for v2.1.5 itself.
+- The next flight test of v2.1.5 is planned for the **2027 flying season**, weather permitting.
 
 ## Earlier v2.1 flight-log review
 
@@ -24,7 +25,6 @@ The v2.1 CSV logs did not contain the new diagnostic outputs `EAct`, `SpdDn`, an
 
 After that review, the project history records a v2.1b adjustment to soften Elevator-only penalty and combine strong Elevator activity with GPS-speed decrease. The present local package is later, **v2.1.5**, with revised confirmation timing and persistence behavior documented in `SETUP_SK.md` and the source. The older flight results must not be presented as proof that v2.1.5 has passed flight testing.
 
-## What a v2.1.5 test should record
+## What the 2027 v2.1.5 test should record
 
-Use the actual X20R and the intended sensors. Record the precise Lua version and ETHOS version, then capture `TScore`, `TState`, altitude, GPS vario, GPS speed, current, and Elevator around each HINT/CONFIRM transition. Compare the log with the pilot's observation and report false, late, repeated, or missing alerts. Keep the prior working scripts and radio configuration backed up before changing the transmitter.
-
+When weather permits during the 2027 flying season, use the actual X20R and intended sensors. Record the precise Lua version and ETHOS version, then capture `TScore`, `TState`, altitude, GPS vario, GPS speed, current, and Elevator around each HINT/CONFIRM transition. Compare the log with the pilot's observation and report false, late, repeated, or missing alerts. Keep the prior working scripts and radio configuration backed up before changing the transmitter.
