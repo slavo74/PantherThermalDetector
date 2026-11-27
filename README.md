@@ -1,4 +1,3 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
 # Panther Thermal Detector v2.1.5 — FIELD TEST
 
 Lua thermal hint and confirmation widgets for FrSky ETHOS. This snapshot is tuned for one FrSky X20R / F5J Panther installation and is published to invite field testing. It is experimental; it does not control the aircraft and does not guarantee that a detected climb is thermal lift.
