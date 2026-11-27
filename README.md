@@ -30,7 +30,7 @@ The repository root contains these same `scripts/` and `audio/` folders for revi
 
 ## Test status
 
-The last detailed flight-log review in the available project history concerned **v2.1**, not v2.1.5. It found useful lift indications but also a state/logging inconsistency and missing diagnostic fields. The pilot confirmed one logged interval as real thermal lift. Those older results do not validate this v2.1.5 build; see [`TEST_STATUS.md`](TEST_STATUS.md) before testing.
+The detector has been flown and reviewed using two v2.1 flights; the pilot confirmed one logged interval as real thermal lift. That confirms earlier in-flight testing, but does not validate the current v2.1.5 build. The next v2.1.5 flight test is planned for the **2027 flying season, weather permitting**. See [`TEST_STATUS.md`](TEST_STATUS.md) for the flight-log details and the planned measurements.
 
 ## Feedback
 
@@ -39,4 +39,3 @@ For a useful report, include the exact script version, ETHOS version, transmitte
 ## License
 
 No reuse license is included in this test snapshot. Public visibility permits review; it does not grant permission to redistribute or incorporate the code into another product.
-
